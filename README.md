@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Diplômée en Développement Informatique.<br>🛠️ Passionnée par le développement Web (Laravel, symfony, React) .<br>📚 Toujours motivée pour apprendre et explorer de nouvelles technologies.<br>🌍 Objectif : participer à des projets innovants, créatifs et collaboratifs.
+🎓 Future Software Engineering.<br>🛠️ Passionnée par le développement Web (Laravel, symfony, React) .<br>📚 Toujours motivée pour apprendre et explorer de nouvelles technologies.<br>🌍 Objectif : participer à des projets innovants, créatifs et collaboratifs.
 
 
 ## 🌐 Socials:
